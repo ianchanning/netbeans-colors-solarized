@@ -2,7 +2,7 @@
 <!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
 <fontscolors>
     <fontcolor foreColor="ff268bd2" name="PHP_VARIABLE"/>
-    <fontcolor foreColor="ff995f29" name="mod-method">
+    <fontcolor foreColor="ff839496" name="mod-method">
         <font style="bold"/>
     </fontcolor>
     <fontcolor name="mod-private"/>
@@ -24,21 +24,21 @@
         <font style="italic"/>
     </fontcolor>
     <fontcolor foreColor="ff6185a6" name="mod-parameter"/>
-    <fontcolor default="keyword" name="keyword"/>
+    <fontcolor default="keyword" foreColor="ffb58900" name="keyword"/>
     <fontcolor name="mod-static">
         <font style="italic"/>
     </fontcolor>
-    <fontcolor default="operator" name="operator"/>
+    <fontcolor default="operator" foreColor="ffb58900" name="operator"/>
     <fontcolor name="mod-class">
         <font style="bold"/>
     </fontcolor>
     <fontcolor foreColor="white" name="T_INLINE_HTML"/>
     <fontcolor name="mod-unused" waveUnderlined="ff999999"/>
     <fontcolor default="string" name="string"/>
-    <fontcolor default="comment" name="phpdockeyword">
+    <fontcolor default="comment" foreColor="ff93a1a1" name="phpdockeyword">
         <font style="bold"/>
     </fontcolor>
     <fontcolor default="comment" name="comment"/>
     <fontcolor default="identifier" foreColor="ff268bd2" name="identifier"/>
-    <fontcolor default="separator" name="separator"/>
+    <fontcolor default="separator" foreColor="ff657b83" name="separator"/>
 </fontscolors>

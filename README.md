@@ -3,6 +3,7 @@ Solarized Colorscheme for NetBeans
 
 Developed by Ethan Schoonover <es@ethanschoonover.com>
 Ported to NetBeans by Brian Fenton [https://github.com/fentie]
+Updated PHP colors to match Java / SublimeText PHP by Ian Channing [https://github.com/ianchanning]
 
 See the [homepage for the Solarized colorscheme][solarized] for versions for 
 Vim, popular terminal emulators and other applications.
